@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/OptimisticDev.github.io/amazon-clone/static/css/main.1c72a08b.chunk.css",
-    "main.js": "/OptimisticDev.github.io/amazon-clone/static/js/main.21bf9ccf.chunk.js",
-    "main.js.map": "/OptimisticDev.github.io/amazon-clone/static/js/main.21bf9ccf.chunk.js.map",
-    "runtime-main.js": "/OptimisticDev.github.io/amazon-clone/static/js/runtime-main.1cb22430.js",
-    "runtime-main.js.map": "/OptimisticDev.github.io/amazon-clone/static/js/runtime-main.1cb22430.js.map",
-    "static/js/2.243c162b.chunk.js": "/OptimisticDev.github.io/amazon-clone/static/js/2.243c162b.chunk.js",
-    "static/js/2.243c162b.chunk.js.map": "/OptimisticDev.github.io/amazon-clone/static/js/2.243c162b.chunk.js.map",
-    "static/js/3.a30a0852.chunk.js": "/OptimisticDev.github.io/amazon-clone/static/js/3.a30a0852.chunk.js",
-    "static/js/3.a30a0852.chunk.js.map": "/OptimisticDev.github.io/amazon-clone/static/js/3.a30a0852.chunk.js.map",
-    "index.html": "/OptimisticDev.github.io/amazon-clone/index.html",
-    "static/css/main.1c72a08b.chunk.css.map": "/OptimisticDev.github.io/amazon-clone/static/css/main.1c72a08b.chunk.css.map",
-    "static/js/2.243c162b.chunk.js.LICENSE.txt": "/OptimisticDev.github.io/amazon-clone/static/js/2.243c162b.chunk.js.LICENSE.txt"
+    "main.css": "/amazon-clone/static/css/main.1c72a08b.chunk.css",
+    "main.js": "/amazon-clone/static/js/main.21bf9ccf.chunk.js",
+    "main.js.map": "/amazon-clone/static/js/main.21bf9ccf.chunk.js.map",
+    "runtime-main.js": "/amazon-clone/static/js/runtime-main.a740db5b.js",
+    "runtime-main.js.map": "/amazon-clone/static/js/runtime-main.a740db5b.js.map",
+    "static/js/2.243c162b.chunk.js": "/amazon-clone/static/js/2.243c162b.chunk.js",
+    "static/js/2.243c162b.chunk.js.map": "/amazon-clone/static/js/2.243c162b.chunk.js.map",
+    "static/js/3.a30a0852.chunk.js": "/amazon-clone/static/js/3.a30a0852.chunk.js",
+    "static/js/3.a30a0852.chunk.js.map": "/amazon-clone/static/js/3.a30a0852.chunk.js.map",
+    "index.html": "/amazon-clone/index.html",
+    "static/css/main.1c72a08b.chunk.css.map": "/amazon-clone/static/css/main.1c72a08b.chunk.css.map",
+    "static/js/2.243c162b.chunk.js.LICENSE.txt": "/amazon-clone/static/js/2.243c162b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cb22430.js",
+    "static/js/runtime-main.a740db5b.js",
     "static/js/2.243c162b.chunk.js",
     "static/css/main.1c72a08b.chunk.css",
     "static/js/main.21bf9ccf.chunk.js"
